@@ -1,0 +1,29 @@
+#firstheading {
+     color: rgba(40, 40, 255, 0.979);
+    }
+    div#firstdiv{
+        background-color: rgb(138, 199, 77)
+}
+p{ 
+    display: inline;
+}
+p.firstp{
+    color: white;
+}
+.firstli,.thirdli{
+    color: rgb(177, 117, 68);
+}
+
+.secondli{
+    color: aqua;
+}
+.forthli{
+    color: yellow;
+}
+
+div#footer p#footer1{
+    border-right: 2px solid red;
+}
+div#footer p#footer1,div#footer p#footer2{
+    padding: 5px;
+}
